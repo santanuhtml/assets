@@ -10,12 +10,11 @@ https://www.blobmaker.app/
 https://app.haikei.app/
 https://webgradients.com/
 https://shape.so/app/animated-icons
+https://flickity.metafizzy.co/
+https://swiperjs.com/
+https://web.archive.org/
 https://www.jqueryscript.net/animation/Fullscreen-Snow-Falling-Effect-With-jQuery-Snowfall.html
 http://mmenu.frebsite.nl/
-https://flickity.metafizzy.co/
-https://web.archive.org/
-https://blog.polarbits.co/2014/02/16/quick-tips-5-column-layout-with-twitter-bootstrap/
-
 
 4.free coding & css applications
 https://freefrontend.com/
