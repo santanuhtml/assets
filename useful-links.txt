@@ -6,27 +6,42 @@ https://console.developers.google.com/apis/credentials
 
 2. plugins & links
 https://fotorama.io/
+https://swiperjs.com/
+https://flickity.metafizzy.co/
+https://dimsemenov.com/plugins/magnific-popup/
 https://www.blobmaker.app/
 https://app.haikei.app/
+https://bennettfeely.com/clippy/
 https://webgradients.com/
+https://gijsroge.github.io/tilt.js/
 https://shape.so/app/animated-icons
-https://flickity.metafizzy.co/
-https://swiperjs.com/
 https://web.archive.org/
-https://www.jqueryscript.net/animation/Fullscreen-Snow-Falling-Effect-With-jQuery-Snowfall.html
-http://mmenu.frebsite.nl/
 
-4.free coding & css applications
+3.free coding & css applications
 https://freefrontend.com/
 https://www.tyler.com/templates/
-http://www.bestjquery.com/lab/testimonials-showcase/
-http://bennettfeely.com/clippy/
-https://gijsroge.github.io/tilt.js/
+
+4.website inspiration
+http://www.cssauthor.com/corporate-business-web-templates/    (best for psd design)
+http://wp.magnium-themes.com/barrel/barrel-selector/
+http://www.espresso-templates.com/
+https://stnsvn.com/showcase/
+http://sktperfectdemo.com/
+https://www.sktthemes.net/
+http://www.boxui.com
+http://www.webdesign-inspiration.com/
+ui8.net
+www.behance.net
+http://athemes.com/collections/best-one-page-wordpress-themes/
+http://designspiration.net/
+http://preview.themeforest.net/item/vina-rubela-multipurpose-virtuemart-joomla-template/full_screen_preview/17203266?_ga=1.113251525.31101759.1475742651
 
 5.app development fremwork
 http://ionicframework.com
 
 6.FONT icons
+https://icons.getbootstrap.com/
+https://icons8.com/line-awesome
 https://thenounproject.com/
 https://themify.me/themify-icons
 http://simplelineicons.com/
@@ -79,20 +94,6 @@ https://www.transparenttextures.com/
 subtlepatterns.com
 
 
-17.website inspiration
-http://wp.magnium-themes.com/barrel/barrel-selector/
-http://www.espresso-templates.com/
-https://stnsvn.com/showcase/
-http://sktperfectdemo.com/
-https://www.sktthemes.net/
-http://www.boxui.com
-http://www.webdesign-inspiration.com/
-ui8.net
-www.behance.net
-http://www.cssauthor.com/corporate-business-web-templates/                      (best for psd design)
-http://athemes.com/collections/best-one-page-wordpress-themes/
-http://designspiration.net/
-http://preview.themeforest.net/item/vina-rubela-multipurpose-virtuemart-joomla-template/full_screen_preview/17203266?_ga=1.113251525.31101759.1475742651
 
 18.wordpress inspiration
 https://www.elegantthemes.com/gallery/divi/
